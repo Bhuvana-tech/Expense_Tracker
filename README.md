@@ -26,8 +26,4 @@ First, you enter your budget. Then you can keep adding expenses. The app updates
 
 ## How to run
 
-Just open the `index.html` file in your browser.
-
-## Note
-
-This is a basic project made for learning and practice.
+Just open the `index1.html` file in your browser.
